@@ -14,7 +14,6 @@
     {
         defaults = $.extend({}, defaults, params);
         this.container = $elem;
-
         this.lowercase =  ("abcdefghijklmnopqrstuvwxyz").split('');
         this.uppercase =  ("ABCDEFGHIJKLMNOPQRSTUVWXYZ").split('');
         this.numbercase = ("0123456789").split('');
