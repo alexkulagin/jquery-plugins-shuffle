@@ -6,7 +6,7 @@
         message: '',
         step: 16,
         fps: 12,
-        onComplete: null;
+        onComplete: null
     };
 
 
